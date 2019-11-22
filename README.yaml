@@ -1,0 +1,48 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: Docker Redis
+
+# Short description of this project
+description: |-
+  Dockerfile for Redis server
+
+# Canonical GitHub repo
+github_repo: UnionPOS/docker-redis
+
+# How to get started quickly
+quickstart: |-
+  Here's how to get started...
+
+  1. `git clone https://github.com/UnionPOS/docker-redis` to pull down the repository
+  1. `make init` to initialize the [`build-harness`](https://github.com/UnionPOS/build-harness/)
+
+# How to use this project
+usage: |-
+  ### Building the image
+
+  ```sh
+  make build
+  ```
+
+  ### Running the container
+
+  ```bash
+  make run
+  ```
+
+  ### Running the container (interactive mode)
+
+  ```bash
+  make it
+  ```
+
+# References
+references:
+  - name: "Serverless Framework"
+    description: "Serverless Framework Dcoumentation"
+    url: "https://serverless.com/framework/docs/"
