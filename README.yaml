@@ -46,6 +46,6 @@ usage: |-
 
 # References
 references:
-  - name: "Serverless Framework"
-    description: "Serverless Framework Dcoumentation"
-    url: "https://serverless.com/framework/docs/"
+  - name: "Docker"
+    description: "Docker Documentation"
+    url: "https://docs.docker.com/"
