@@ -17,7 +17,6 @@ Dockerfile for Redis server
 
 ## Quick Start
 
-## Quick Start
 
 Here's how to get started...
 

@@ -16,7 +16,6 @@ github_repo: UnionPOS/docker-redis
 
 # How to get started quickly
 quickstart: |-
-  ## Quick Start
 
   Here's how to get started...
 
