@@ -16,8 +16,11 @@ github_repo: UnionPOS/docker-redis
 
 # How to get started quickly
 quickstart: |-
+  ## Quick Start
+
   Here's how to get started...
 
+  1. ensure you have a [baseline configuration](https://github.com/UnionPOS/baseline/)
   1. `git clone https://github.com/UnionPOS/docker-redis` to pull down the repository
   1. `make init` to initialize the [`build-harness`](https://github.com/UnionPOS/build-harness/)
 

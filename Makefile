@@ -8,6 +8,10 @@ export DOCKER_BUILD_FLAGS =
 
 build: docker/build
 
+## update readme documents
+docs: readme/deps readme
+.PHONY: docs
+
 run:
 	docker container run --rm \
 		--publish "6379:6379" \
